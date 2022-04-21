@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Raúl Estrada</h1>
-<h3 align="center">Programador Junior</h3>
+<h3 align="center">Programador</h3>
 
 - 🌱 Actualmente estoy Estudiando Flask y PHP 
 
