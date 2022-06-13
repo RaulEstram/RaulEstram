@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Raúl Estrada</h1>
 <h3 align="center">Programador</h3>
 
-- 🌱 Actualmente estoy Estudiando Flask y PHP 
+- 🌱 Actualmente estoy Aprendiendo
 
 - 👨‍💻 Algunos de mis proyectos los subo a esta plataforma 
 
-- 📝 Me gusta mucho estudiar 
+- 📝 Me gusta mucho estudiar y aprender nuevas cosas
 
 - 📄 Actualmente no cuento con experiencia laboral 
 
